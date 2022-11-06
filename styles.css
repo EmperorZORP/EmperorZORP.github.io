@@ -1,0 +1,21 @@
+body{
+	background-color:lightblue;
+	font-size: 1.5em;
+	font-family: 'Ropa Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+img {
+  border-radius: 40%;
+  display:block;
+  margin:auto;
+}
+
+
+
+
